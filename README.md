@@ -1,4 +1,5 @@
 After compose with `docker compose up -d --build`
+
 Run
 ```
 docker exec -it vdt_db /bin/bash
