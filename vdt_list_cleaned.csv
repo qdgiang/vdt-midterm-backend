@@ -1,43 +1,43 @@
-name,gender,university
-Lê Minh Việt Anh,Nam,Đại học Bách Khoa Hà Nội
-Phạm Quang Bách,Nam,VinUniversity
-Hoàng Bá Bảo,Nam,Đại học Bách Khoa Hà Nội
-Phạm Minh Cường,Nam,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Trương Văn Độ,Nam,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Hoàng Việt Dũng,Nam,ITMO University
-Bùi Hoàng Dũng,Nam,Đại học Bách Khoa Hà Nội
-Bùi Trọng Dũng,Nam,Đại học Bách Khoa Hà Nội
-Trần Thùy Dương,Nữ,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Quach Dang Giang,Nam,Đại học Công nghệ Thông tin – Đại học Quốc gia TP.HCM
-Nguyễn Thanh Hà,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Thu Hà,Nữ,Đại học Bách Khoa Hà Nội
-Cù Xuân Hải,Nam,ITMO University
-Nguyễn Trung Hiếu,Nam,Đại học Bách Khoa Hà Nội
-Đặng Việt Hoàng,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Văn Hùng,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Quốc Hưng,Nam,Đại học Bách Khoa Hà Nội
-Lê Minh Hương,Nữ,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Ngo Dang Huy,Nam,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Trần Quang Huy,Nam,Học viện Công Nghệ Bưu Chính Viễn Thông
-Trần Minh Huyền,Nữ,Đại học Bách Khoa Hà Nội
-Nguyễn Đôn Thế Kiệt,Nam,VinUniversity
-Lê Hoàng Trường,Nam,ITMO University
-Đào Quang Lợi,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Tiến Long,Nam,ITMO University
-Nguyen Quang Long,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Thị Ngọc Mai,Nữ,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Đỗ Dương Mạnh,Nam,ITMO University
-Nguyễn Ngọc Minh,Nam,Học viện Công Nghệ Bưu Chính Viễn Thông
-Vũ Thế Nam,Nam,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Ngô Công Bằng,Nam,Học viện Công Nghệ Bưu Chính Viễn Thông
-Nguyễn Huy Thái,Nam,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Phan Khôi Nguyên,Nam,Đại học Bách Khoa Hà Nội
-Đinh Việt Quang,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Chí Thành,Nam,Đại học Bách Khoa Hà Nội
-Nguyễn Đình Tiến,Nam,Đại học Bách Khoa Hà Nội
-Đỗ Thu Trang,Nữ,Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Nguyễn Thị Mỹ Tú,Nữ,ITMO University
-Nguyễn Quang Tuấn,Nam,ITMO University
-Hoàng Minh Tuấn,Nam,Học viện Công Nghệ Bưu Chính Viễn Thông
-Phạm Mạnh Tuấn,Nam,ITMO University
-Bùi Hoàng Vinh,Nam,Học viện Công Nghệ Bưu Chính Viễn Thông
+name,gender,email,phone,university
+Lê Minh Việt Anh,Nam,anh.lmv.bkhn@gmail.com,394305264,Đại học Bách Khoa Hà Nội
+Phạm Quang Bách,Nam,blu11235@gmail.com,866859929,VinUniversity
+Hoàng Bá Bảo,Nam,bachdtm169@gmail.com,983155487,Đại học Bách Khoa Hà Nội
+Phạm Minh Cường,Nam,20020098@vnu.edu.vn,967809494,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Trương Văn Độ,Nam,truongvando1910@gmail.com,963047046,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Hoàng Việt Dũng,Nam,bungnud113@gmail.com,969698093,ITMO University
+Bùi Hoàng Dũng,Nam,dung9d32k2@gmail.com,981268318,Đại học Bách Khoa Hà Nội
+Bùi Trọng Dũng,Nam,bui123456trongdung@gmail.com,931115699,Đại học Bách Khoa Hà Nội
+Trần Thùy Dương,Nữ,tranthuyduonghy2003@gmail.com,376065504,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Quach Dang Giang,Nam,giang.dangquach@gmail.com,356886876,Đại học Công nghệ Thông tin – Đại học Quốc gia TP.HCM
+Nguyễn Thanh Hà,Nam,captainnemot1k60@gmail.com,967571913,Đại học Bách Khoa Hà Nội
+Nguyễn Thu Hà,Nữ,nguyenthuhat1k60@gmail.com,858925333,Đại học Bách Khoa Hà Nội
+Cù Xuân Hải,Nam,xuanhai2708@gmail.com,79052735920,ITMO University
+Nguyễn Trung Hiếu,Nam,hieu.nt230603@gmail.com,869347311,Đại học Bách Khoa Hà Nội
+Đặng Việt Hoàng,Nam,beetit338@gmail.com,866803327,Đại học Bách Khoa Hà Nội
+Nguyễn Văn Hùng,Nam,hungnv.itb@gmail.com,395334342,Đại học Bách Khoa Hà Nội
+Nguyễn Quốc Hưng,Nam,nothung209@gmail.com,982947213,Đại học Bách Khoa Hà Nội
+Lê Minh Hương,Nữ,lmhuong711@gmail.com,327182139,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Ngo Dang Huy,Nam,ngohuy658@gmail.com,343473387,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Trần Quang Huy,Nam,quanghuy1604nd@gmail.com,904845743,Học viện Công Nghệ Bưu Chính Viễn Thông
+Trần Minh Huyền,Nữ,huyen.cnh70@gmail.com,865776220,Đại học Bách Khoa Hà Nội
+Nguyễn Đôn Thế Kiệt,Nam,viettel.strixthekiet@gmail.com,867288725,VinUniversity
+Lê Hoàng Trường,Nam,natibatian@gmail.com,9118984336,ITMO University
+Đào Quang Lợi,Nam,loidao99@gmail.com,934829614,Đại học Bách Khoa Hà Nội
+Nguyễn Tiến Long,Nam,tienlong1106@gmail.com,79967695589,ITMO University
+Nguyen Quang Long,Nam,long.nq.hust@gmail.com,869174722,Đại học Bách Khoa Hà Nội
+Nguyễn Thị Ngọc Mai,Nữ,maintn124@gmail.com,969918109,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Đỗ Dương Mạnh,Nam,domanhitmo@gmail.com,987779370,ITMO University
+Nguyễn Ngọc Minh,Nam,minh.itptit@gmail.com,337191138,Học viện Công Nghệ Bưu Chính Viễn Thông
+Vũ Thế Nam,Nam,vuthenam.9.3.4@gmail.com,9637070997,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Ngô Công Bằng,Nam,ngocongbang.ptit@gmail.com,963340608,Học viện Công Nghệ Bưu Chính Viễn Thông
+Nguyễn Huy Thái,Nam,nguyenhuythai15@gmail.com,946590882,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Phan Khôi Nguyên,Nam,khoinguyen6103@gmail.com,941777898,Đại học Bách Khoa Hà Nội
+Đinh Việt Quang,Nam,vietquang16012003@gmail.com,869963453,Đại học Bách Khoa Hà Nội
+Nguyễn Chí Thành,Nam,caitendenhonhat@gmail.com,833144638,Đại học Bách Khoa Hà Nội
+Nguyễn Đình Tiến,Nam,tiennguyen14122003@gmail.com,866920919,Đại học Bách Khoa Hà Nội
+Đỗ Thu Trang,Nữ,thutrang25062k4@gmail.com,328663946,Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Nguyễn Thị Mỹ Tú,Nữ,jasmine150720@gmail.com,79219430456,ITMO University
+Nguyễn Quang Tuấn,Nam,quangtuanitmo18@gmail.com,79533626795,ITMO University
+Hoàng Minh Tuấn,Nam,tibanh03@gmail.com,328511409,Học viện Công Nghệ Bưu Chính Viễn Thông
+Phạm Mạnh Tuấn,Nam,7upnamk@gmail.com,9219430423,ITMO University
+Bùi Hoàng Vinh,Nam,hoangvinh1577@gmail.com,946902235,Học viện Công Nghệ Bưu Chính Viễn Thông
