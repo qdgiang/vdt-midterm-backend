@@ -1,4 +1,13 @@
 services:
+  backend:
+    container_name: vdt_backend_container
+    build: 
+      context: backend
+    image: qdgiang/vdt-backend
+    ports:
+      - "8000:8000"
+    networks:
+      - vdt_network
   db:
     container_name: vdt_db
     image: postgres
@@ -7,6 +16,14 @@ services:
       POSTGRES_USER: vdt_user
       POSTGRES_PASSWORD: vdt_password
     ports:
-      - "5432:5432"
+      - 5432:5432
+    networks:
+      - vdt_network
     volumes:
       - ./data:/var/lib/postgresql/data
+
+networks:
+  vdt_network:
+    name: vdt_network
+    external: true
+
